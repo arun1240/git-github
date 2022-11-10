@@ -1,2 +1,2 @@
 # git-github
-New Practice
+New Practice for devops course
